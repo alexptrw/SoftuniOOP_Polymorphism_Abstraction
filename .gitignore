@@ -1,0 +1,4 @@
+#ignore all word files
+*.txt
+*.doc
+*.docx
